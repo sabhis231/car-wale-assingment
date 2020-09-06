@@ -1,0 +1,30 @@
+body {
+    font-family: system-ui;
+    color: white;
+    text-align: center;
+  }
+
+  button {
+    font-family: system-ui;
+    background: #06c5f0;
+    color: white;
+    text-align: center;
+    font-size: 2vw;
+    padding: 10px;
+    /* border-radius: 10px; */
+    border: none;
+    cursor: pointer;
+  }
+
+  .pointer {
+    height: 24px;
+    width: 28px;
+    padding: 8px;
+    border-radius: 55%;
+    color: black;
+    background: red;
+    position: absolute;
+    margin-left: 54%;
+    margin-top: -26px;
+    color: white;
+  }
